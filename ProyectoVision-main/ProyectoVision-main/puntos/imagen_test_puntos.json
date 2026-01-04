@@ -1,0 +1,157 @@
+{
+  "imagen": "imagenes\\imagen_test.jpg",
+  "objetos": [
+    {
+      "id": 1,
+      "tipo": "CYL",
+      "punto_central": {
+        "x": 3170,
+        "y": 495
+      },
+      "punto_1": {
+        "x": 3171,
+        "y": 494
+      },
+      "punto_2": {
+        "x": 3169,
+        "y": 496
+      },
+      "es_tapon": true
+    },
+    {
+      "id": 2,
+      "tipo": "CYL",
+      "punto_central": {
+        "x": 3509,
+        "y": 1345
+      },
+      "punto_1": {
+        "x": 3509,
+        "y": 1627
+      },
+      "punto_2": {
+        "x": 3509,
+        "y": -1
+      },
+      "es_tapon": true
+    },
+    {
+      "id": 3,
+      "tipo": "CYL",
+      "punto_central": {
+        "x": 2106,
+        "y": 1166
+      },
+      "punto_1": {
+        "x": 2088,
+        "y": 1334
+      },
+      "punto_2": {
+        "x": 2126,
+        "y": 999
+      },
+      "es_tapon": false
+    },
+    {
+      "id": 4,
+      "tipo": "CYL",
+      "punto_central": {
+        "x": 2654,
+        "y": 1124
+      },
+      "punto_1": {
+        "x": 2548,
+        "y": 1204
+      },
+      "punto_2": {
+        "x": 2750,
+        "y": 1052
+      },
+      "es_tapon": true
+    },
+    {
+      "id": 5,
+      "tipo": "RECT",
+      "punto_central": {
+        "x": 3053,
+        "y": 1198
+      },
+      "punto_1": {
+        "x": 2947,
+        "y": 1202
+      },
+      "punto_2": {
+        "x": 3170,
+        "y": 1195
+      },
+      "es_tapon": false
+    },
+    {
+      "id": 6,
+      "tipo": "CYL",
+      "punto_central": {
+        "x": 3175,
+        "y": 1934
+      },
+      "punto_1": {
+        "x": 3164,
+        "y": 1809
+      },
+      "punto_2": {
+        "x": 3187,
+        "y": 2053
+      },
+      "es_tapon": false
+    }
+  ],
+  "contenedores": [
+    {
+      "id": 1,
+      "tipo": "CAJA_NEGRA_AMARILLO",
+      "punto_central": {
+        "x": 1305,
+        "y": 1737
+      },
+      "punto_1": {
+        "x": 1008,
+        "y": 1561
+      },
+      "punto_2": {
+        "x": 1602,
+        "y": 1914
+      }
+    },
+    {
+      "id": 2,
+      "tipo": "CAJA_NEGRA_MARRON",
+      "punto_central": {
+        "x": 1172,
+        "y": 1239
+      },
+      "punto_1": {
+        "x": 752,
+        "y": 1059
+      },
+      "punto_2": {
+        "x": 1593,
+        "y": 1420
+      }
+    },
+    {
+      "id": 3,
+      "tipo": "CAJA_NEGRA_AZUL",
+      "punto_central": {
+        "x": 1171,
+        "y": 751
+      },
+      "punto_1": {
+        "x": 752,
+        "y": 571
+      },
+      "punto_2": {
+        "x": 1590,
+        "y": 931
+      }
+    }
+  ]
+}
